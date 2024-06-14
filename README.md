@@ -1,2 +1,3 @@
-This is the new GrapheneOS Camera app based on Android's modern CameraX
-library. It replaces AOSP Camera for GrapheneOS.
+#  PanCam Camera
+Based on GrapheneOS Camera, I bring you PanCam!
+A work in progress camera with Fuji Xpan aspect ratio integrated.
